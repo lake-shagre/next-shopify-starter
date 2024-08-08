@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS + Shopify Starter
+# Next.js + Tailwind CSS + Animation + Shopify Starter
 
 <div align="center">
 <img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
@@ -20,11 +20,13 @@ purchase the items. You can see this play out in the example store. Yes - the st
   <thead>
     <tr>
       <td>Desktop</td>
+      <td>Pad</td>
       <td>Mobile</td>
     <tr>
   </thead>
   <tbody>
   <tr>
+    <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/desktop-lighthouse.png"/></td>
     <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/desktop-lighthouse.png"/></td>
     <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/mobile-lighthouse.png"/></td>
   </tr>
